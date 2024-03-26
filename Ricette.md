@@ -2,10 +2,14 @@
 
 Contenitori ricette
 
-##Ingredienti
+##Ricette
 
-*aglio olio e peperoncino
-* Risotto ai funghi
-*pennette carbonara
-* Minestrone di verdure
-* Salmone al cartoccio
+##Primi
+* spaghetti aglio, olio e peperoncino
+* risotto ai funghi
+* pennette alla carbonara
+
+##Secondi
+
+* minestrone di verdure
+* salmone al cartoccio
